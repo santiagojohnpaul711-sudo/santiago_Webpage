@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FitTune</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="top">
+        <h1>FitTune</h1>
+        <p>don't stop hanggat di kapa masarap.</p>
+    </header>
+    <nav>
+        <a href="#Home">Home</a>
+        <a href="#About Us">About Us</a>
+        <a href="#Services /Rates">Services /Rates</a>
+        <a href="#Schedule">Schedule</a>
+        <a href="#Contact Us">Contact Us</a>
+    </nav>
+    <main>
+        <section id="Home">
+            <h3>Register and join us now!</h2>
+            <form>
+                <label for="fullname">Full name</label>
+                <input type="text" id="fullname" name="fullname">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email">
+                <input type="submit" value="Join">
+            </form>
+        </section>
+        <section id="About Us">
+            <p>FitTune Gym is an emerging fitness center in Valencia City, Bukidnon, known for its vibrant
+              energy, modern strength and conditioning equipment, and dynamic community. It currently
+              relies on walk-ins and social media updates to reach customers.
+              This proposal outlines the strategy, design, and development plan for a custom, mobile-
+              responsive landing page and information website. The platform will connect local fitness
+              enthusiasts with the gym and streamline membership inquiries, class scheduling, and
+              promotions ahead of the December 2026 launch.</p>
+        </section>
+    </main>
